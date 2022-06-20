@@ -13,4 +13,4 @@ https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker
 
 https://wokwi.com/projects/334977593624232530:-   servo motar
 
-https://wokwi.com/projects/334977593624232530
+https://wokwi.com/projects/334977593624232530:-    servo motar using for loop
