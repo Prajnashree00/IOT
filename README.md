@@ -22,3 +22,5 @@ https://wokwi.com/projects/335065707348755026  :-buzzer
 https://wokwi.com/projects/335068168319926866  :buzzer with button 
 
 https://wokwi.com/projects/335070056491778642 :- ultrasonic sensor
+
+https://wokwi.com/projects/335070056491778642  :- ULTRASONIC WITH BUZZER
