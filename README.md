@@ -11,16 +11,16 @@ https://wokwi.com/projects/322062421191557714 :- hello wokwi<br>4
 
 https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45- basic buzzer explaination<br>
 
-https://wokwi.com/projects/334977593624232530 : servo motar 6
+https://wokwi.com/projects/334977593624232530 : servo motar 5
 
 https://wokwi.com/projects/334977593624232530  :-    servo motar using for loop
 
-https://wokwi.com/projects/334982677972124242  :- servometer with potentiometer slide 7
+https://wokwi.com/projects/334982677972124242  :- servometer with potentiometer slide 6
 
-https://wokwi.com/projects/335065707348755026  :-buzzer 8
+https://wokwi.com/projects/335065707348755026  :-buzzer 7
 
-https://wokwi.com/projects/335068168319926866  :buzzer with button 9
+https://wokwi.com/projects/335068168319926866  :buzzer with button 8
 
-https://wokwi.com/projects/335070056491778642 :- ultrasonic sensor 10
+https://wokwi.com/projects/335070056491778642 :- ultrasonic sensor 9
 
-https://wokwi.com/projects/335070056491778642  :- ULTRASONIC WITH BUZZER 11
+https://wokwi.com/projects/335070056491778642  :- ULTRASONIC WITH BUZZER 10
