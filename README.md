@@ -19,3 +19,4 @@ https://wokwi.com/projects/334982677972124242  :- servometer with potentiometer 
 
 https://wokwi.com/projects/335065707348755026  :-buzzer 
 
+https://wokwi.com/projects/335068168319926866  :buzzer with button 
