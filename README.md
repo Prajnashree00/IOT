@@ -33,3 +33,5 @@ https://wokwi.com/projects/335585334716793427   :- Ultrasonic with buzzer (2)
 https://wokwi.com/projects/335075055329346132   :- varring with intensity ultrasonic sensor
 
 https://wokwi.com/projects/335611619397599827 :-varring with distance using led
+
+https://wokwi.com/projects/335616878141506130  :-two ultrasonic sensor
