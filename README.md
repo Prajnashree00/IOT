@@ -29,3 +29,4 @@ https://wokwi.com/projects/335070056491778642  :- ULTRASONIC WITH BUZZER 10(1)
  
 https://wokwi.com/projects/335585334716793427   :- Ultrasonic with buzzer (2)
 
+https://wokwi.com/projects/335075055329346132   :- varring with intensity
