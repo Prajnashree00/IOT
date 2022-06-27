@@ -23,4 +23,6 @@ https://wokwi.com/projects/335068168319926866  :buzzer with button 8
 
 https://wokwi.com/projects/335131064102027860 :- ultrasonic sensor 9
 
-https://wokwi.com/projects/335070056491778642  :- ULTRASONIC WITH BUZZER 10
+https://wokwi.com/projects/335070056491778642  :- ULTRASONIC WITH BUZZER 10(1)
+
+
