@@ -36,4 +36,6 @@ https://wokwi.com/projects/335611619397599827 :-varring with distance using led
 
 https://wokwi.com/projects/335616878141506130  :-two ultrasonic sensor
 
-https://wokwi.com/projects/335701700267475540  :-potentiometer using led
+https://wokwi.com/projects/335701700267475540  :-potentiometer using led(extra)
+
+https://wokwi.com/projects/335702196478804564  :-potentiometer using led
