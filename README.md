@@ -20,6 +20,8 @@ https://wokwi.com/projects/334977593624232530  :-    servo motar using for loop
 
 https://wokwi.com/projects/334982677972124242  :- servometer with potentiometer slide 6
 
+https://wokwi.com/projects/335702826545054292  :-servomotar with pushbutton
+
 https://wokwi.com/projects/335065707348755026  :-buzzer 7
 
 https://wokwi.com/projects/335068168319926866  :buzzer with button 8
