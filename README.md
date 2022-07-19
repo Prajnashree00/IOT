@@ -45,6 +45,8 @@ https://wokwi.com/projects/335702196478804564  :-potentiometer using led
 
 lab list:
 https://wokwi.com/projects/337602028014404178 -1<br>
-https://wokwi.com/projects/337602684471214674 -2
+https://wokwi.com/projects/337602684471214674 -2(humidity sensor and temperature sensor using buttton)
+https://wokwi.com/projects/337604296859189842 -3(humidity sensopr and temperature using LCD)<br>
+
 
 
