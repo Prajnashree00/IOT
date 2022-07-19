@@ -45,4 +45,6 @@ https://wokwi.com/projects/335702196478804564  :-potentiometer using led
 
 lab list:
 https://wokwi.com/projects/337602028014404178 -1<br>
+https://wokwi.com/projects/337602684471214674 -2
+
 
