@@ -50,16 +50,16 @@ https://wokwi.com/projects/337604296859189842 -3(humidity sensopr and temperatur
 
 
 
-#HUMIDITY AND TEMPERATURE SENSOR
-#include <Adafruit_Sensor.h>
-#include <DHT.h>;
-#define DHTPIN D7 // what pin we're connected to
-#define DHTTYPE DHT11 // DHT 22 (AM2302)
-DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
-//Variables
-int chk; float hum; //Stores humidity value
-float temp; //Stores temperature value
-void setup()
+#HUMIDITY AND TEMPERATURE SENSOR<br>
+#include <Adafruit_Sensor.h><br>
+#include <DHT.h>;<br>
+#define DHTPIN D7 // what pin we're connected to<br>
+#define DHTTYPE DHT11 // DHT 22 (AM2302)<br>
+DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino<br>
+//Variables<br>
+int chk; float hum; //Stores humidity value<br>
+float temp; //Stores temperature value<br>
+void setup()<br>
 {<br>
 Serial.begin(9600);<br>
 dht.begin();<br>
