@@ -60,21 +60,21 @@ DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
 int chk; float hum; //Stores humidity value
 float temp; //Stores temperature value
 void setup()
-{
-Serial.begin(9600);
-dht.begin();
-}
-void loop()
-{
-delay(2000);
-//Read data and store it to variables hum and temp
-hum = dht.readHumidity();
-temp= dht.readTemperature();
-//Print temp and humidity values to serial monitor
-Serial.print("Humidity: ");
-Serial.print(hum);
-Serial.print(" %, Temp: ");
-Serial.print(temp);
-Serial.println(" Celsius");
-delay(1000); //Delay 2 sec.
-}
+{<br>
+Serial.begin(9600);<br>
+dht.begin();<br>
+}<br>
+void loop()<br>
+{<br>
+delay(2000);<br>
+//Read data and store it to variables hum and temp<br>
+hum = dht.readHumidity();<br>
+temp= dht.readTemperature();<br>
+//Print temp and humidity values to serial monitor<br>
+Serial.print("Humidity: ");<br>
+Serial.print(hum);<br>
+Serial.print(" %, Temp: ");<br>
+Serial.print(temp);<br>
+Serial.println(" Celsius");<br>
+delay(1000); //Delay 2 sec.<br>
+}<br>
