@@ -82,102 +82,102 @@ delay(1000); //Delay 2 sec.<br>
 
 
 
-//LDR sensor
-int ldr=A0;//Set A0(Analog Input) for LDR.
- int value=0;
- int led=D1;
- void setup() {
- Serial.begin(9600);
- pinMode(led,OUTPUT);
- }
+//LDR sensor<br>
+int ldr=A0;//Set A0(Analog Input) for LDR.<br>
+ int value=0;<br>
+ int led=D1;<br>
+ void setup() {<br>
+ Serial.begin(9600);<br>
+ pinMode(led,OUTPUT);<br>
+ }<br>
 
- void loop() {
- value=analogRead(ldr);//Reads the Value of LDR(light).
- Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.
- Serial.println(value);
- if(value<50)
-   {
-     digitalWrite(led,HIGH);//Makes the LED glow in Dark.
-   }
-   else
-   {
-     digitalWrite(led,LOW);//Turns the LED OFF in Light.
-   }
-   delay(1000);
- }
+ void loop() {<br>
+ value=analogRead(ldr);//Reads the Value of LDR(light).<br>
+ Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.<br>
+ Serial.println(value);<br>
+ if(value<50)<br>
+   {<br>
+     digitalWrite(led,HIGH);//Makes the LED glow in Dark.<br>
+   }<br>
+   else<br>
+   {<br>
+     digitalWrite(led,LOW);//Turns the LED OFF in Light.<br>
+   }<br>
+   delay(1000);<br>
+ }<br>
  
  
- RGB
+ RGB<br>
  
- int red = D1;
- int green = D6;
- int blue = D7;
- //GROUND IS CONNECTED TO 3V 
- void setup() {
-   pinMode(red, OUTPUT);
-   pinMode(green, OUTPUT);
-   pinMode(blue, OUTPUT);
+ int red = D1;<br>
+ int green = D6;<br>
+ int blue = D7;<br>
+ //GROUND IS CONNECTED TO 3V <br>
+ void setup() {<br>
+   pinMode(red, OUTPUT);<br>
+   pinMode(green, OUTPUT);<br>
+   pinMode(blue, OUTPUT);<br>
 
- }
+ }<br>
 
- void loop() {
-   displayColor(0b100); //RED
-   delay(1000);
-   displayColor(0b010); //GREEN
-   delay(1000);
-   displayColor(0b001); //BLUE
-   delay(1000);
-   displayColor(0b101); //MAGENTA
-   delay(1000);
-   displayColor(0b011); //CYAN
-   delay(1000);
-   displayColor(0b110); //YELLOW
-   delay(1000);
-   displayColor(0b111); //WHITE
-   delay(1000);
- }
+ void loop() {<br>
+   displayColor(0b100); //RED<br>
+   delay(1000);<br><br>
+   displayColor(0b010); //GREEN<br><br>
+   delay(1000);<br><br>
+   displayColor(0b001); //BLUE<br><br>
+   delay(1000);<br><br>
+   displayColor(0b101); //MAGENTA<br><br>
+   delay(1000);<br><br>
+   displayColor(0b011); //CYAN<br><br>
+   delay(1000);<br><br>
+   displayColor(0b110); //YELLOW<br><br>
+   delay(1000);<br><br>
+   displayColor(0b111); //WHITE<br><br>
+   delay(1000);<br><br>
+ }<br><br>
 
- void displayColor(byte color) {
-   digitalWrite(red, !bitRead(color, 2));
-   digitalWrite(green, !bitRead(color, 1));
-   digitalWrite(blue, !bitRead(color, 0));
- }
+ void displayColor(byte color) {<br><br>
+   digitalWrite(red, !bitRead(color, 2));<br><br>
+   digitalWrite(green, !bitRead(color, 1));<br><br>
+   digitalWrite(blue, !bitRead(color, 0));<br><br>
+ }<br><br>
 
 
-IR_LED
-  int ir=D7;
- int led=D5;
- void setup() {
-   // put your setup code here, to run once:
-   pinMode(ir,INPUT);
-     pinMode(led,OUTPUT);
-     Serial.begin(9600);
+IR_LED<br><br>
+  int ir=D7;<br><br>
+ int led=D5;<br><br>
+ void setup() {<br><br>
+   // put your setup code here, to run once:<br><br>
+   pinMode(ir,INPUT);<br>
+     pinMode(led,OUTPUT);<br>
+     Serial.begin(9600);<br>
 
- }
+ }<br>
 
- void loop() {
-   // put your main code here, to run repeatedly:
-   int irvalue=digitalRead(ir);
-   if(irvalue==LOW)
-   {
-     Serial.println("LOW");
-     digitalWrite(led,HIGH);
-   }
-   else
-   {
-     Serial.println("HIGH");
-     digitalWrite(led,LOW);
-   }
- delay(100);
- }
-</br>
-</br>
-</br>
-     LDR
-     const int ldrPin=A0;
-     void setup() {
-       Serial.begin(9600);
-       pinMode(ldrPin,INPUT);
+ void loop() {<br>
+   // put your main code here, to run repeatedly:<br>
+   int irvalue=digitalRead(ir);<br>
+   if(irvalue==LOW)<br>
+   {<br>
+     Serial.println("LOW");<br>
+     digitalWrite(led,HIGH);<br>
+   }<br>
+   else<br>
+   {<br>
+     Serial.println("HIGH");<br>
+     digitalWrite(led,LOW);<br>
+   }<br>
+ delay(100);<br>
+ }<br>
+</br><br>
+</br><br>
+</br><br>
+     LDR<br>
+     const int ldrPin=A0;<br>
+     void setup() {<br>
+       Serial.begin(9600);<br>
+       pinMode(ldrPin,INPUT);<br>
      }
      void loop() {
        int rawData = analogRead(ldrPin);   
