@@ -214,4 +214,4 @@ IR_LED<br><br>
 :led chaser
 https://wokwi.com/projects/340774241535263315 :led chaser<br>
  https://wokwi.com/projects/340778876526395987 :ldr<br>
- https://wokwi.com/projects/340780447593136722:ir reciver
+ https://wokwi.com/projects/340780447593136722  :ir reciver
