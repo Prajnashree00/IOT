@@ -217,3 +217,4 @@ https://wokwi.com/projects/340774241535263315 :led chaser<br>
  https://wokwi.com/projects/340780447593136722  :ir reciver
 https://wokwi.com/projects/340855298357985875  :servo motar with pushbutton
 https://wokwi.com/projects/340856354520433236 :servo motar with  sliding potentiometer
+https://wokwi.com/projects/340857584295608914  :buzzer with pushbutton
