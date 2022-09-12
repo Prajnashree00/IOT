@@ -97,6 +97,9 @@ https://wokwi.com/projects/342586116652663380 - Seven_Segment
 https://wokwi.com/projects/342587401518973522 - Joystick + DotMatrix
 https://wokwi.com/projects/342588998566281812 - UltraSonic Sensor + LCD
 https://wokwi.com/projects/290043622233997832
+https://wokwi.com/projects/342593562404192852
+
+
 //LDR sensor<br>
 int ldr=A0;//Set A0(Analog Input) for LDR.<br>
  int value=0;<br>
