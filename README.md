@@ -93,12 +93,9 @@ https://wokwi.com/projects/340892440485429842 - DHT222<br>
 https://wokwi.com/projects/340893919446303316 - LED CHASER2<br>
 https://wokwi.com/projects/340936317213868626 - LDR2<br>
 https://wokwi.com/projects/340936847717827156 - LDR + LED2<br>
-Seven segment LED display example
-https://wokwi.com/projects/new/arduino-uno
-Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix:
-https://wokwi.com/projects/new/arduino-uno
-Display distance on LCD screen with buzzer and LED 
-https://wokwi.com/projects/290056311044833800
+https://wokwi.com/projects/342586116652663380 - Seven_Segment
+https://wokwi.com/projects/342587401518973522 - Joystick + DotMatrix
+https://wokwi.com/projects/342588998566281812 - UltraSonic Sensor + LCD
 https://wokwi.com/projects/290043622233997832
 //LDR sensor<br>
 int ldr=A0;//Set A0(Analog Input) for LDR.<br>
