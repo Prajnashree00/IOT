@@ -93,7 +93,8 @@ https://wokwi.com/projects/340892440485429842 - DHT222<br>
 https://wokwi.com/projects/340893919446303316 - LED CHASER2<br>
 https://wokwi.com/projects/340936317213868626 - LDR2<br>
 https://wokwi.com/projects/340936847717827156 - LDR + LED2<br>
-
+Seven segment LED display example
+https://wokwi.com/projects/new/arduino-uno
 
 //LDR sensor<br>
 int ldr=A0;//Set A0(Analog Input) for LDR.<br>
