@@ -97,7 +97,9 @@ Seven segment LED display example
 https://wokwi.com/projects/new/arduino-uno
 Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix:
 https://wokwi.com/projects/new/arduino-uno
-
+Display distance on LCD screen with buzzer and LED 
+https://wokwi.com/projects/290056311044833800
+https://wokwi.com/projects/290043622233997832
 //LDR sensor<br>
 int ldr=A0;//Set A0(Analog Input) for LDR.<br>
  int value=0;<br>
